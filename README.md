@@ -1,9 +1,6 @@
 ### Olá, Seja bem vindo! 👋
-Meu nome é **Mariana Moreira**. Atualmente, estou aprimorando minhas habilidades no desenvolvimento web, por meio do Curso **Fullstack da Recode Pro**, e também estou cursando **Sistemas de Informação no IFBA**. Minha jornada no mundo da programação começou durante o ensino técnico. Tenho uma trajetória de desenvolvimento, tendo trabalhado em projetos tanto pessoais quanto profissionais. Grande parte desses projetos foi construída utilizando o gerenciador de conteúdo **WordPress**, com o auxílio do construtor de páginas Elementor.
-
-No entanto, motivada pela minha formação técnica e pela minha curiosidade em resolver desafios, decidi-me aprofundar na prática da tríade fundamental para o desenvolvimento web: **HTML, CSS e JavaScript**. Estou empenhada em adquirir um conhecimento mais sólido nesses elementos essenciais.
-
-Neste momento, estou aberta a oportunidades profissionais, tanto como **freelancer quanto em regime CLT**. Estou ansiosa para aplicar minhas habilidades em projetos solicitados e contribuir para soluções criativas. Seja qual for a tarefa, estou determinada a continuar crescendo como desenvolvedora web e oferecer um trabalho de qualidade.
+Eu chamo Mariana Moreira e estou aprimorando minhas habilidades em desenvolvimento web com o Curso Fullstack da Recode Pro. Também estou cursando Sistemas de Informação no IFBA. Minha jornada na programação começou no ensino técnico, e desde então trabalhei em projetos pessoais e profissionais, principalmente com WordPress e Elementor.
+ Estou aberta a oportunidades profissionais, seja como freelancer ou em regime CLT, e estou ansiosa para aplicar minhas habilidades em projetos e contribuir com soluções criativas. Estou determinada a crescer como desenvolvedora web e oferecer trabalho de qualidade.
   
 ### Tenho conhecimento em:
 <div style="display: inline_block"><br>
